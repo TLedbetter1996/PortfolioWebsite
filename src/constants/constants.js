@@ -7,8 +7,8 @@ export const projects = [
     description:"Fully functioning E-Commerce store sponsoring a client. Check out lxckySavage for essential oils and body scrubs.",
     image: '/images/lxcky.png',
     tags: ['React', 'JavaScript', 'CommerceJs'],
-    source: 'https://github.com/TLedbetter1996/e-commerce-store-',
-    visit: 'https://lxckysavage.com',
+    source: 'https://lxckysavage.com',
+    visit: 'https://github.com/TLedbetter1996/e-commerce-store-',
     id: 0,
   },
   {
